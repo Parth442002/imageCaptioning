@@ -1,13 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
-<<<<<<< HEAD
 
 Flickr8kDataset/
-Flickr8kFeatures.pickle
+/assets/Flickr8kFeatures.pickle
 
-=======
->>>>>>> parent of c4da509 (Features Extracted from FlickrsDataset)
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
